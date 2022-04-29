@@ -4,7 +4,6 @@
 Sinh viên có thể tham chiếu vào đây để có code mẫu.
 
 # Liên hệ:
-Giảng Viên: Nguyễn Long Bảo
-Email: baonl4@fe.edu.vn
+Giảng Viên: Nguyễn Long Bảo - Email: baonl4@fe.edu.vn
 
 # Danh sách code mẫu:
