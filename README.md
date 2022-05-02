@@ -17,8 +17,8 @@ Bài 4: Hướng dẫn sinh viên sử dụng $@ và $# để đếm số biến
 Bài 5: Hướng dẫn sinh viên sử dụng hàm if\
 Bài 6: Hướng dẫn sinh viên sử dụng hàm if...elif\
 Bài 7: Ứng dụng hàm if ... elif để tìm số lớn nhất trong 3 số người dùng đã nhập.\
-Bài 8: hướng dẫn sử dụng cấu trúc IF với AND trong điều kiện\n
-Bài 9: hướng dẫn sử dụng cấu trúc IF với OR trong điều kiện\n
-Bài 10: hướng dẫn sử dụng vòng lập FOR cơ bản\n
-Bài 11: hướng dẫn sử dụng vòng lập FOR để in chuỗi số từ lớn đến bé.\n
-Bài 12: hướng dẫn sử dụng vòng lập FOR để in chuỗi số từ nhỏ đến lớn.\n
+Bài 8: hướng dẫn sử dụng cấu trúc IF với AND trong điều kiện\
+Bài 9: hướng dẫn sử dụng cấu trúc IF với OR trong điều kiện\
+Bài 10: hướng dẫn sử dụng vòng lập FOR cơ bản\
+Bài 11: hướng dẫn sử dụng vòng lập FOR để in chuỗi số từ lớn đến bé.\
+Bài 12: hướng dẫn sử dụng vòng lập FOR để in chuỗi số từ nhỏ đến lớn.\
