@@ -8,7 +8,9 @@ Giảng Viên: Nguyễn Long Bảo\
 Email: baonl4@fe.edu.vn
 
 # Danh sách code mẫu:
-# BashScriptDemo:
+## BashScriptDemo:
+Bài Tập 1: thực hiện tính tổng từ 1 đến N\
+## Danh Sách mẫu:
 Bài 1: hướng dẫn sinh viên xuất ra màn hình dòng chữ "Hello World !!!"\
 Bài 2: hướng dẫn sử dụng câu lệnh echo trong bash script\
 Bài 3 - Demo1: hướng dẫn sử dụng COMMENT trong Bash Script\
